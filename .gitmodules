@@ -2,3 +2,7 @@
 	path = sub-module-2
 	url = https://github.com/tanghaichuan/sub-module-2.git
 	branch = dev
+[submodule "sub-module"]
+	path = sub-module
+	url = https://github.com/tanghaichuan/sub-module.git
+	branch = dev
